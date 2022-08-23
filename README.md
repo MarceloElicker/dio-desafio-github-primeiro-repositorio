@@ -1,2 +1,2 @@
-# DIO - Primeiro Repositótio Curso Git/GitHub
-Desafio de Projeto Git/GitHub da DIO
+# DIO - Desafio de Projeto Curso Git/GitHub
+ Primeiro RepositótioGit/GitHub da DIO
